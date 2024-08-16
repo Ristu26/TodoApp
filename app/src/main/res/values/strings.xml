@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="add">Add</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="create">Create</string>
+    <string name="nothing_to_do" />
+    <string name="save">Save</string>
+    <string name="select_the_date">Select the date</string>
+    <string name="select_the_time">Select the time</string>
+    <string name="i_am_the_title">I am the title</string>
+    <string name="i_am_the_body">I am the body</string>
+    <string name="select_new_date">Select New Date</string>
+    <string name="select_new_time">Select New Time</string>
+</resources>
